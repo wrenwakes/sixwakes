@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wrenwakes.github.io/sixwakes/sitemap.xml
